@@ -1,1 +1,1 @@
-# peekaboo
+#[ModKit Wiki](../../wiki)
